@@ -43,7 +43,7 @@ copumbi = {
 #nome: mutamaúma, classe: Arvore mutante  (HP:50/ATK:10)
 #nome: copumbi, classe: Guarda zumbi  (HP:25/ATK:15)
 
-#boss:j
+#boss:
 #nome: kinglime, classe: Rei slime (HP:10/ATK:5)  envenenamento: false
 #nome: gigantelon, classe: esqueleto gigante (HP:20/ATK:10)  envenenamento: false
 #nome: spiderqueen, classe: aranha rainha (HP:50/ATK:25)  envenenamento: false

@@ -14,7 +14,7 @@ delay(2)
 nome_personagem = input("Digite um nome para seu personagem: ")
 personagem.criar(nome_personagem)
 
-#jj
+
 #Primeiro de tudo: lista de atributos
 #vida(10/50), força(0/50), destreza(0,50), magia(0,50), sorte(0,50), iniciativa(0,50), vontade(0,50)
 
