@@ -12,7 +12,7 @@ def criar(nome):
     "VON": rd(0,50)  #vontade
     }
   }
-  #Esse aqui escreve
+  #Esse aqui escrevee
   with open("personagem.json", "w",encoding='utf8') as json_file:
     file = json.dump(personagem, json_file, ensure_ascii=False, indent=4)
 
