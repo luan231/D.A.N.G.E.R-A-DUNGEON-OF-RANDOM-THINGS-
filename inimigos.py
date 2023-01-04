@@ -1,4 +1,3 @@
-#nome: zumbicromante, classe: Zumbi (HP:12/ATK:5) envenenamento: false
 zumbicromante = {
   "classe": "Zumbi",
   "HP": 12,
@@ -8,19 +7,19 @@ zumbicromante = {
 goblinelson = {
   "classe": "Goblin",
   "HP": 5,
-  "ATK": 2) 
+  "ATK": 2,
   "envenenamento": False
 }
 ratamuy = {
   "classe": "Rato",
   "HP": 3,
-  "ATK": 1) 
+  "ATK": 1,
   "envenenamento": True
 }
 esqueletoid = {
   "classe": "Esqueleto",
   "HP": 5,
-  "ATK": 2) 
+  "ATK": 2,
   "envenenamento": False
 }
 bignideo = {
@@ -35,7 +34,7 @@ copumbi = {
 #inimigos comuns:
 #nome: abelhao, classe: abelha (HP:1/ATK:1)  envenenamento: true
 #nome: gosma, classe, slime (HP:2/ATK:1) envenenamento: false
-
+#nome: zumbicromante, classe: Zumbi (HP:12/ATK:5) envenenamento: false
 #nome: goblinelson, classe: Globin (HP:5/ATK:2) envenenamento: false
 #nome: ratamuy, classe: Rato (HP:3/ATK:1) envenenamento: true
 #nome: esqueletoid, classe: Esqueleto (HP:10/ATK:5) envenenamento: false
